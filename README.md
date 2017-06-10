@@ -1,1 +1,5 @@
-# java-webserver
+# run app
+```
+$ cd {project_dir}
+$ gradle run
+```
